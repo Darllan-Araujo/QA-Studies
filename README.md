@@ -8,8 +8,8 @@ Neste repositório irá conter exemplos de testes manuais e automatizados, usado
 ## 🔍 O que você vai ver por aqui?
 
 ✅ Testes Manuais (Casos de Teste, Plano de Teste, Relatórios de Bugs, Descrição de testes escritos em Gherkin bdd)  
-✅ Testes Automatizados para Web com Python + Selenium  
-✅ Testes de API com Postman e PyTest 
+✅ Testes Automatizados para Web com Cypress em JS  
+✅ Testes de API com Postman
 
 ---
 
@@ -17,6 +17,6 @@ Neste repositório irá conter exemplos de testes manuais e automatizados, usado
 
 - **Testes Manuais:** Plano de Teste e Relatórios  
 - **Testes de API:** Postman e PyTest
-- **Testes Web Automatizados:** Selenium (Python)  
+- **Testes Web Automatizados:**  Cypress em JS
 
 ---
