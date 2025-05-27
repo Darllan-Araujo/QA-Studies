@@ -15,7 +15,7 @@ Neste repositório irá conter exemplos de testes manuais e automatizados, usado
 
 ## 🛠 Tecnologias que serão utilizadas?
 
-- **Testes Manuais:** Plano de Teste e Relatórios  
+- **Testes Manuais:** Plano de Teste com cenário em Gherkin usando o Trello ou Jira e Relatórios  
 - **Testes de API:** Postman e PyTest
 - **Testes Web Automatizados:**  Cypress em JS
 
